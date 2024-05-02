@@ -1,0 +1,51 @@
+
+.nav-mx {
+
+  margin: 0px 100px;
+}
+.hero-img {
+  border: 1px solid rgb(252, 249, 249);
+  width: 250px;
+  height: 250px;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: white;
+}
+
+.hero {
+  justify-content: center;
+  gap: 50px;
+}
+
+.hero-contant {
+  width: 782px;
+}
+.intro-line {
+  width: 10%;
+}
+
+.intro-contant {
+  margin-left: 85px;
+  width: 570px;
+}
+
+/* .footer-section {
+  border: 1px solid black;
+} */
+
+.main-heading {
+  text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.8);
+}
+
+.arrow i {
+  transform: rotate(90deg);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.resume {
+  box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.8);
+}
